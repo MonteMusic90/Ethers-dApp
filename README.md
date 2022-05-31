@@ -14,13 +14,9 @@
 
 
 6. In terminal, type in 
-  > npx create-react-app
-    
-  > *(the name of your project folder)* 
-  
-  > --use-npm
+    > npx create-react-app> *(the name of your project folder)* --use-npm
    
-   Then Press enter
+    Then Press enter
   
 6. Make sure to go to your folders directory in terminal then type npm run start. Press Y if prompted to
 7. React App will pop up in browser
