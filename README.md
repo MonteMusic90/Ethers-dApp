@@ -7,7 +7,8 @@
 2. Download node and if you're using a Mac, be sure to use version **16.15.0**
 3. Download npm
 4. In terminal, type in 
-  > npx create-react-app 
+  > npx create-react-app
+    
   > *(the name of your project folder)* 
   > --use-npm
   then Press enter
