@@ -14,7 +14,7 @@
 
 
 6. In terminal, type in 
-    > npx create-react-app> *(the name of your project folder)* --use-npm
+   > npx create-react-app> *(the name of your project folder)* --use-npm
    
     Then Press enter
   
