@@ -4,9 +4,10 @@
 ## Instructions
 
 1. You'll need to make and install your Metamask wallet into your browser either on Chrome or Firefox
-2. Download node and if you're using a Mac, be sure to use version > **16.15.0**
-3. Download npm
-4. In terminal, type in 
+2. Download node and if you're using a Mac, be sure to use version 
+ > **16.15.0**
+4. Download npm
+5. In terminal, type in 
   > npx create-react-app
     
   > *(the name of your project folder)* 
