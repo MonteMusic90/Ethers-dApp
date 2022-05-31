@@ -18,7 +18,7 @@
    
     Then Press enter
   
-6. Make sure to go to your folders directory in terminal then type npm run start. Press Y if prompted to
+6. Make sure to go to your folders directory in terminal then type > npm run start. Press Y if prompted to
 7. React App will pop up in browser
 8. Type in terminal, npm install web3
 9. ( The following steps may be irrelevant if you're not using a Mac m1 but just in case, continue following the steps ).
