@@ -7,7 +7,7 @@
 2. Download node 
   > brew install node
    
-  and if you're using a Mac, be sure to use version  **16.15.0**
+   **If you're using a Mac, be sure to use version  _16.15.0_**
   
 4. Download npm
   > brew install npm
