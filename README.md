@@ -16,7 +16,7 @@
 6. In terminal, type in 
 > npx create-react-app> *(the name of your project folder)* --use-npm
    
-    Then Press enter
+   Then Press enter
   
 6. Make sure to go to your folders directory in terminal then type 
 > npm run start
@@ -29,7 +29,9 @@
  
 11. ( The following steps may be irrelevant if you're not using a Mac m1 but just in case, continue following the steps ).
 12. Run React app again in terminal to expect errors to pop up
-13. Press control z to kill the site
-14. Type in terminal, npm uninstall react-scripts and press enter 
-15. After installation, run react app again with npm run start
-16. web3 will be installed and properly imported now    
+13. Press *control z* to kill the site
+14. Type in terminal, 
+> npm uninstall react-scripts 
+ Then press enter 
+16. After installation, run react app again with npm run start
+17. web3 will be installed and properly imported now    
