@@ -34,4 +34,4 @@
 > npm uninstall react-scripts 
  Then press enter 
 16. After installation, run react app again with npm run start
-17. web3 will be installed and properly imported now    
+17. web3 will be installed and properly imported now         
