@@ -19,7 +19,8 @@
     Then Press enter
   
 6. Make sure to go to your folders directory in terminal then type 
-   > npm run start. 
+   > npm run start
+    
    Press Y if prompted to
 8. React App will pop up in browser
 9. Type in terminal, npm install web3
